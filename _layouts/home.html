@@ -11,7 +11,7 @@ layout: default
 		{% for post in site.posts %}
 			<div class="post-preview">
 				<h2 class="post-preview__title">
-					<a href="{{ post.url }}">
+					<a href="{{ site.url }}{{ post.url }}">
 						{{ post.title }}
 					</a>
 				</h2>
@@ -19,7 +19,7 @@ layout: default
 				<p class="post-preview__excerpt">
 					{{  post.excerpt }}
 					<br />
-					<a class="post-preview__button" href="{{ post.url }}">Read the whole article</a>
+					<a class="post-preview__button" href="{{ site.url }}{{ post.url }}">Read the whole article</a>
 				</p>
 			</div>
 		{% endfor %}
