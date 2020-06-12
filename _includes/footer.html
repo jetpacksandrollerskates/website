@@ -1,0 +1,51 @@
+<footer class="footer">
+	<div class="container container--footer">
+
+		<div class="footer__logo">
+			{%- include logo.svg -%}
+		</div>
+
+		<div class="footer__text">
+			<div>
+				All rights reserved {{ 'now' | date: "%Y" }}
+				<br />
+				{{ site.title | escape }}. Legal filler, blah
+				<br />
+				blah blah.
+			</div>
+		</div>
+
+		<div class="footer__list">
+			<ul class="social-list">
+				<li>
+					<a href="https://twitter.com/{{ site.twitter_username }}">
+						<i class="fab fa-twitter"></i>
+					</a>
+				</li>
+				<li>
+					<a href="https://www.instagram.com/{{ site.instagram_username }}">
+						<i class="fab fa-instagram"></i>
+					</a>
+				</li>
+				<li>
+					<a href="https://dribbble.com/{{ site.dribbble_username }}">
+						<i class="fab fa-dribbble"></i>
+					</a>
+				</li>
+			</ul>
+		</div>
+
+	</div>
+
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.slim.js" integrity="sha256-DrT5NfxfbHvMHux31Lkhxg42LY6of8TaYyK50jnxRnM=" crossorigin="anonymous"></script>
+
+	<script type="text/javascript">
+		$(document).ready(function() {
+
+    		$('.navigation__hamburger').on('click', function() {
+				$('body').toggleClass('nav-is-open');
+			});
+			
+		});
+	</script>
+</footer>

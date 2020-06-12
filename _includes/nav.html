@@ -1,0 +1,61 @@
+<div class="navigation">
+	<div class="container navigation__container">
+
+		<div class="container__nav-wrapper">
+			<div class="sidebar">
+				<div class="sidebar__logo">
+					<a href="/">
+						{%- include logo.svg -%}
+					</a>
+				</div>
+
+				<div class="desktop-nav">
+					<div class="sidebar__text">
+						Jetpacks and Rollerskates, the work and ramblings of <strong>Blake Stevenson.</strong> A UX/UI designer, illustrator and all round pop culture addict from the north.
+					</div>
+
+					{%- include nav-links.html -%}
+
+					<ul class="sidebar__list sidebar__list--social">
+						<li>
+							<a href="https://twitter.com/{{ site.twitter_username }}">
+								<div class="social-icon">
+									<i class="fab fa-twitter"></i>
+								</div>
+							</a>
+						</li>
+						<li>
+							<a href="https://www.instagram.com/{{ site.instagram_username }}">
+								<div class="social-icon">
+									<i class="fab fa-instagram"></i>
+								</div>
+							</a>
+						</li>
+						<li>
+							<a href="https://dribbble.com/{{ site.dribbble_username }}">
+								<div class="social-icon">
+									<i class="fab fa-dribbble"></i>
+								</div>
+							</a>
+						</li>
+					</ul>
+				</div>
+			</div>
+		</div>
+
+		<div class="mobile-nav">
+			<div class="mobile-nav__list">
+				{%- include nav-links.html -%}
+			</div>
+		</div>
+
+		<div class="navigation__hamburger">
+			<span></span>
+			<span></span>
+			<span></span>
+		</div>
+
+		<div class="navigation__border"></div>
+
+	</div>
+</div>

@@ -1,0 +1,40 @@
+port: 4444
+title: Jetpacks & Rollerskates
+email: blake.stvnsn@gmail.com
+description: >- # this means to ignore newlines until "baseurl:"
+  Jetpacks and Rollerskates, the work and ramblings of Blake Stevenson. A UX/UI designer, illustrator and all round pop culture addict from the north.
+url: 'http://jetpacksandrollerskates.com'
+show_excerpts: true
+instagram_username: jetpacksandrollerskates
+twitter_username: blakestevenson
+dribbble_username: blakestevenson
+rss: https://github.com/jekyll/jekyll-feed
+
+collections:
+  articles:
+    output: true
+    permalink: /:path/
+  posts:
+    output: true
+    permalink: /post/:path/
+
+# Build settings
+kramdown:
+  syntax_highlighter: rouge
+  syntax_highlighter_opts:
+    fenced_code_blocks: true
+    default_lang: javascript
+    span:
+      disable: true
+    block:
+      line_numbers: true
+
+plugins:
+  - jekyll-feed
+
+sass:
+  sass_dir: css
+  style: compressed
+
+plugins:
+  - jekyll-seo-tag
