@@ -17,7 +17,7 @@ I have been wanting to try out the time-lapse feature on Procreate. Usually, I j
 
 ## How to access the time-lapse feature 
 
-![Procreate time-lapse ui](https://drive.google.com/uc?export=view&id=[1cCALRxBPuZeRe8Be89hspwp9IDvwjYIS])
+![Procreate time-lapse user interface](https://drive.google.com/uc?export=view&id=1cCALRxBPuZeRe8Be89hspwp9IDvwjYIS)
 
 1. Tap the **wrench** icon in the top left hand corner of Procreate.
 2. Select the **video** icon.
