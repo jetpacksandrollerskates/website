@@ -7,7 +7,7 @@ categories: Process
 tags: [Sketches, Work in Progress]
 permalink: /post/top-design-and-illustration-podcasts-part-1/
 excerpt: I have been wanting to do this post for awhile now. As both a commuter and someone who works from home a few days a week.
-thumbnail: http://blog.jetpacksandrollerskates.com/wp-content/uploads/2017/09/top-podcasts-header.jpg
+thumbnail: https://blog.jetpacksandrollerskates.com/wp-content/uploads/2017/09/top-podcasts-header.jpg
 ---
 
 ## why podcasts?
