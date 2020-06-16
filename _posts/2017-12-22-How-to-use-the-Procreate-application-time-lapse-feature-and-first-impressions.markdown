@@ -7,7 +7,7 @@ categories: How to
 tags: [Tools, Procreate, Digital Drawing]
 permalink: /post/How-to-use-the-Procreate-application-time-lapse-feature-and-first-impressions/
 excerpt: I have been wanting to try out the time-lapse feature on Procreate. Usually, I just ink my work digitally but I wanted to take something from the sketch to final.
-thumbnail: https://drive.google.com/uc?export=view&id=[1u1xVqPDgYDybEcA16TVdya56xmTfjGYW]
+thumbnail: https://drive.google.com/uc?export=view&id=1u1xVqPDgYDybEcA16TVdya56xmTfjGYW
 youtubeId: uBPcWjkvgr8
 ---
 
@@ -17,7 +17,7 @@ I have been wanting to try out the time-lapse feature on Procreate. Usually, I j
 
 ## How to access the time-lapse feature 
 
-![Image](https://drive.google.com/uc?export=view&id=[1cCALRxBPuZeRe8Be89hspwp9IDvwjYIS])
+![Image]https://drive.google.com/uc?export=view&id=[1cCALRxBPuZeRe8Be89hspwp9IDvwjYIS]
 
 1. Tap the **wrench** icon in the top left hand corner of Procreate.
 2. Select the **video** icon.
