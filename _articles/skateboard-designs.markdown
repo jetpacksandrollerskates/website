@@ -1,5 +1,5 @@
 ---
-layout: article
+layout: post
 title:  "Skateboard Designs"
 date:   2020-05-23 00:00:00 -0500
 author: Blake Stevenson
