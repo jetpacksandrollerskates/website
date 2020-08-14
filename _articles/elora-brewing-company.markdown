@@ -23,6 +23,6 @@ Nullam sed augue ut orci interdum venenatis tristique sed quam. Donec aliquam le
 
 ## Making Swag
 
-![Elora Brewing Company Clothing Design by Blake Stevenson](https://drive.google.com/uc?export=view&id=1uJMvHduCSToOngMgYDyv_Ezccf5KA8tG)
+![Elora Brewing Company Clothing Design by Blake Stevenson](https://drive.google.com/uc?export=view&id=1PzlOCaeU-dvVLldGO2XRxD6jPSkzeUXM)
 
 Nullam sed augue ut orci interdum venenatis tristique sed quam. Donec aliquam leo vel est tempor scelerisque. Sed sed molestie mauris, vitae interdum lacus. Etiam tempus ligula est, eu posuere purus semper mattis. Nam commodo leo maximus, lacinia augue a, fringilla massa.
