@@ -21,8 +21,8 @@ Nullam sed augue ut orci interdum venenatis tristique sed quam. Donec aliquam le
 
 Nullam sed augue ut orci interdum venenatis tristique sed quam. Donec aliquam leo vel est tempor scelerisque. Sed sed molestie mauris, vitae interdum lacus. Etiam tempus ligula est, eu posuere purus semper mattis. Nam commodo leo maximus, lacinia augue a, fringilla massa.
 
-## Pairing Icons
+## Making Swag
 
-![Fingerboard designs by Blake Stevenson](https://drive.google.com/uc?export=view&id=1K7Ik60Clpdf1ncxlfuqYQHChiEY8T30E)
+![Elora Brewing Company Clothing Design by Blake Stevenson](https://drive.google.com/uc?export=view&id=1uJMvHduCSToOngMgYDyv_Ezccf5KA8tG)
 
 Nullam sed augue ut orci interdum venenatis tristique sed quam. Donec aliquam leo vel est tempor scelerisque. Sed sed molestie mauris, vitae interdum lacus. Etiam tempus ligula est, eu posuere purus semper mattis. Nam commodo leo maximus, lacinia augue a, fringilla massa.
