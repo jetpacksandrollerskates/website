@@ -5,7 +5,7 @@ date:   2020-05-23 00:00:00 -0500
 author: Blake Stevenson
 categories: Work
 tags: [Illustration, Print]
-excerpt: A collection of skateboards designed by Blake Stevenson.
+excerpt: A poster design for Netflix's Stranger Things Coffee Table Artbook
 thumbnail:
 ---
 
