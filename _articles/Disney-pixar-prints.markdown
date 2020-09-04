@@ -6,7 +6,8 @@ author: Blake Stevenson
 categories: Work
 tags: [Illustration, Silkscreen, Print]
 excerpt: A collection of skateboards designed by Blake Stevenson.
-thumbnail:
+thumbnail: https://drive.google.com/uc?export=view&id=1gY08uKRD4gZ-585w5vI7CiD9h20SC8au 
+
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin id posuere felis. In orci lectus, consequat consectetur nunc in, maximus volutpat enim.
