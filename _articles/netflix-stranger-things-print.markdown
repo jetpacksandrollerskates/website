@@ -6,7 +6,8 @@ author: Blake Stevenson
 categories: Work
 tags: [Illustration, Print]
 excerpt: A poster design for Netflix's Stranger Things Coffee Table Artbook
-thumbnail:
+thumbnail: https://drive.google.com/uc?export=view&id=1AgJCsH7-PJ3C9y6FFqfKVLvDpYuk8MQZ 
+
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin id posuere felis. In orci lectus, consequat consectetur nunc in, maximus volutpat enim.
