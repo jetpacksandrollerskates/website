@@ -6,7 +6,7 @@ author: Blake Stevenson
 categories: Work
 tags: [Illustration, Design]
 excerpt: Blake Stevenson doing a design off on Adobe Live.
-thumbnail:
+thumbnail: https://drive.google.com/uc?export=view&id=1Sh2Rlz47EJ6iYcauNtaRjQmI-axfIYps 
 youtubeId: 2P2pAy3Ijic
 
 ---
