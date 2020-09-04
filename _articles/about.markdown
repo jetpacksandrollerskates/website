@@ -6,7 +6,8 @@ author: Blake Stevenson
 categories: Work
 tags: [About, Blake Stevenson,]
 excerpt: Learn more about Jetpacks and Rollerskates
-thumbnail:
+thumbnail: https://drive.google.com/uc?export=view&id=1I717ovi2vwq8-mayb3dDWrg5PdZOSn76
+
 ---
 
 ![headshot of designer Blake Stevenson](https://drive.google.com/uc?export=view&id=1I717ovi2vwq8-mayb3dDWrg5PdZOSn76)
