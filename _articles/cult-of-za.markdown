@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Cult of Za"
-date:   2020-04-21 00:00:00 -0500
+date:   2020-02-01 00:00:00 -0500
 author: Blake Stevenson
 categories: Inspiration
 tags: [jekyll, update]
