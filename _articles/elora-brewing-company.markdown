@@ -6,7 +6,7 @@ author: Blake Stevenson
 categories: Work
 tags: [Package Design, Craft Beer, Branding, Illustration]
 excerpt: Branding, Packaging and Illustration for Elora Brewing Company
-thumbnail: https://drive.google.com/uc?export=view&id=1Or_pRKSQG_cmXWrkM24CHuaV_iQ8CxIf 
+thumbnail: https://drive.google.com/uc?export=view&id=19Ga0yZKL6I4fDauPNKJi8um-elMzIZkb
 
 ---
 
