@@ -9,7 +9,8 @@ layout: default
 
 	<div class="article-preview-container">
 		<div class="article-preview-row">
-			{% for article in site.articles limit:8 %}
+			{% assign articles = site.articles | sort: 'date' | reverse %}
+			{% for article in articles limit:8 %}
 				<div class="article-preview {% cycle 'article-preview--two-third', 'article-preview--one-third' %}">
 					<a class="article-preview__button" href="{{ site.url }}{{ article.url }}">
 						<div class="article-preview__image" style="background-image: url({{ article.thumbnail }});"></div>
