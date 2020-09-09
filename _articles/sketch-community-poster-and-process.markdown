@@ -1,12 +1,12 @@
 ---
 layout: post
 title:  "Sketch Community Poster and Case Study"
-date:   2020-08-10 00:00:00 -0500
+date:   2020-01-01 00:00:07 -0500
 author: Blake Stevenson
 categories: Work
 tags: [Process, Sketch, UI, Illustration,]
 excerpt: Poster Design, Process and Documentation.
-thumbnail:
+thumbnail: https://drive.google.com/uc?export=view&id=1W9UgMcGDpfQ0u2kRtuqi5fFVP0A3jU-h
 youtubeId: VW2fREMes68
 
 ---
