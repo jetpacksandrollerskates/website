@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Elora Brewing Company Design"
-date:   2020-01-01 00:00:01 -0500
+date:   2020-08-04 00:00:01 -0500
 author: Blake Stevenson
 categories: Work
 tags: [Package Design, Craft Beer, Branding, Illustration]
