@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Netflix Stranger Things Print"
-date:   2020-08-04 00:00:00 -0500
+date:   2020-08-03 00:00:00 -0500
 author: Blake Stevenson
 categories: Work
 tags: [Illustration, Print]
