@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Adobe Livestream Design Off"
-date:   2020-07-29 00:00:00 -0500
+date:   2020-08-08 00:00:16 -0500
 author: Blake Stevenson
 categories: Work
 tags: [Illustration, Design]
