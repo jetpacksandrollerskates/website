@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Sketch Poster and Porcess"
+title:  "Sketch Poster and Process"
 date:   2020-01-01 00:00:07 -0500
 author: Blake Stevenson
 categories: Work
