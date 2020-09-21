@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Pixar WALLE Print Set"
-date:   2020-08-08 00:00:08 -0500
+date:   2020-08-08 00:00:12 -0500
 author: Blake Stevenson
 categories: Work
 tags: [Illustration, Silkscreen, Print]
