@@ -6,7 +6,7 @@ author: Blake Stevenson
 categories: Work
 tags: [Process, Sketch, UI, Illustration,]
 excerpt: Poster Design, Process and Documentation.
-thumbnail: https://drive.google.com/uc?export=view&id=1W9UgMcGDpfQ0u2kRtuqi5fFVP0A3jU-h
+thumbnail: https://drive.google.com/uc?export=view&id=1q0vYdMUPpypszFbYSfl9I3-U3en0aoBf
 youtubeId: VW2fREMes68
 
 ---
