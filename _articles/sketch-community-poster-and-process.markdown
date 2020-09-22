@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Sketch Poster and Process"
-date:   2020-08-08 00:00:14 -0500
+date:  2020-08-08 00:00:11 -0500
 author: Blake Stevenson
 categories: Work
 tags: [Process, Sketch, UI, Illustration,]
