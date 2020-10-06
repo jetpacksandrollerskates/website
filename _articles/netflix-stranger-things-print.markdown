@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Netflix Stranger Things Print"
+title:  "Netflix Stranger Things"
 date:  2020-08-08 00:00:13 -0500
 author: Blake Stevenson
 categories: Work
