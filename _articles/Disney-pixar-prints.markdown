@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Pixar WALLE Print Set"
+title:  "Pixar/Disney Licensed Work"
 date:  2020-08-08 00:00:12 -0500
 author: Blake Stevenson
 categories: Work
