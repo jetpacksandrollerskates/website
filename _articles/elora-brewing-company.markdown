@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Elora Brewing Company Design"
+title:  "Elora Brewing Company"
 date:  2020-08-08 00:00:15 -0500
 author: Blake Stevenson
 categories: Work
