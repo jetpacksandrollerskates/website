@@ -1,3 +1,43 @@
+@font-face {
+    font-family: 'BioRhyme';
+    src: url('fonts/biorhyme-bold-webfont.woff2') format('woff2'),
+         url('fonts/biorhyme-bold-webfont.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+
+}
+@font-face {
+    font-family: 'BioRhyme';
+    src: url('fonts/biorhyme-regular-webfont.woff2') format('woff2'),
+         url('fonts/biorhyme-regular-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+@font-face {
+    font-family: 'Work Sans';
+    src: url('fonts/worksans-light-webfont.woff2') format('woff2'),
+         url('fonts/worksans-light-webfont.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+
+}
+@font-face {
+    font-family: 'Work Sans';
+    src: url('fonts/worksans-regular-webfont.woff2') format('woff2'),
+         url('fonts/worksans-regular-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+@font-face {
+    font-family: 'Work Sans';
+    src: url('fonts/worksans-semibold-webfont.woff2') format('woff2'),
+         url('fonts/worksans-semibold-webfont.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+
+}
 
 h1,
 h2,
