@@ -19,6 +19,7 @@ Blake Stevenson, the brains behind Jetpacks and Rollerskates. A Canadian designe
 ### Interested in working with me?
 Send me an [email](mailto:blake@jetpacksandrollerskates.com)
 
+&nbsp;
 
 ## A selection of some of the clients/brands I have had the opportunity to work with:
 
