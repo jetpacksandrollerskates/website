@@ -14,7 +14,7 @@ Having worked with Elora Brewing Company since its inception back in 2015. Helpi
 
 ## Building a system
 
-Early on the entire line of beers were packed in 500ml beamer bottles. Each of the labels were unique and fun but lacked some simple elements to tie the brand together. As the brewery grew the packaging transitioned to both 355mL and 473mL cans. It made sense to start developing a cohesive system to start developing a stronger brand all while still keeping the light hearted/whimsical style so many had come to love before.
+Early on the entire line of beers were packed in [500ml breamer](https://kamiljuices.com/products/breamer-amber500mlbeerbottle) bottles. Each of the labels were unique and fun but lacked some simple elements to tie the brand together. As the brewery grew the packaging transitioned to both 355mL and 473mL cans. It made sense to start developing a cohesive system to start developing a stronger brand all while still keeping the light hearted/whimsical style so many had come to love before.
 
 We worked together to develop a system that could scale, evolve and allow us to flex when we needed it to. With the system we developed a number of mainstay design elements, guidelines around image placement and a very flexible colour scheme. Each new design retains its playful nature but side by side they feel like a family. 
 
