@@ -14,7 +14,7 @@ Stranger Things is one of those shows that comes around once a decade. The story
 
 ![Limited Edition Netflix Stranger Things print by Blake Stevenson](https://drive.google.com/uc?export=view&id=1a0epXcpt3TvR5MyzsFbV03Qe8IaZRjiW)
 
-When approached to create a piece of art for the upcoming Netflix Presents: Visions from the Upside Down coffee table book, it was a dream come true. The brief was wide open, so the gut reaction was to present a showdown between good and evil. Focusing on Eleven and the Demogorgon.
+When approached to create a piece of art for the upcoming [Netflix Presents: Visions from the Upside Down](https://strangerthings.fandom.com/wiki/Visions_from_the_Upside_Down:_Stranger_Things_Artbook#:~:text=Visions%20from%20the%20Upside%20Down%3A%20Stranger%20Things%20Artbook%20is%20an,released%20on%20October%2015%2C%202019.) coffee table book, it was a dream come true. The brief was wide open, so the gut reaction was to present a showdown between good and evil. Focusing on Eleven and the Demogorgon.
 
 ![Limited Edition Netflix Stranger Things print, close up shot 1 by Blake Stevenson](https://drive.google.com/uc?export=view&id=1SYgNDcxR1f0n6mqZ5sTb60WUaXd13Sgc)
 
