@@ -24,7 +24,7 @@ When approached to create a piece of art for the upcoming Netflix Presents: Visi
 
 The book was published by Printed in Blood, Del Ray and Randomhouse. 
 
-##Process
+## Process
 
 When Jumping into these sorts of projects, layout is a huge focus. Trying to strike the right balance and composition through a series of rough sketches that are constantly reworked and rearranged. Continuously layering on the previous drawings to better render with each pass. 
 
