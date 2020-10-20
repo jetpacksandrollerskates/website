@@ -29,15 +29,15 @@ Send me an [email](mailto:blake@jetpacksandrollerskates.com)
 
 ## Media engagements:
 
-Real Thread Creative Blog Post // [Networking in the Design Community](https://www.realthread.com/blog/networking-in-the-design-community) 
-Real Thread Audio Interview // [Networking in the Design Community](https://www.youtube.com/watch?v=Dg-wvO4Rd_g&feature=emb_title) 
-Design Recharge Podcast Guest // [Mining Cuteness](https://www.youtube.com/watch?v=UQ48Vr2d2Ds&list=PLf3CLebh1UCb2BV06CA9HoQXjJ_Q36Zjk&index=107)
-Master of One Podacst // [Live from Creative South Episode 28](https://master-of-one-network.simplecast.com/episodes/creative-south-live-episode-28-blake-22902129)
-Creative Waffle Podcast // [Episode 117 w/ Jetpacks and Rollerskates](https://www.youtube.com/watch?v=KUnSIdK1fIM&t=761s)
-Adobe/Behance Live // [Design Off with Voodoo Val](https://www.youtube.com/watch?v=2P2pAy3Ijic&t=2585s)
-Sketch (Bohemian Coding) Blog // [From Sketch to Screen Process](https://www.sketch.com/blog/2019/10/14/from-sketch-to-screen-how-blake-stevenson-created-our-ambassador-art-print/)
-Art of Craft Beer // [Episode 104 w/ Blake Stevenson](https://www.16ozcanvas.com/podcasts/episode-104-blake-stevenson-elora-brewing-co)
-Feasting on Design // [Episode 9 w/ Jetpacks and Rollerskates](https://podcasts.apple.com/us/podcast/9-blake-stevenson-of-jetpacks-and-rollerskates/id1081610301?i=1000365821713&l=es)
+Real Thread Creative Blog Post // [Networking in the Design Community](https://www.realthread.com/blog/networking-in-the-design-community)&nbsp; 
+Real Thread Audio Interview // [Networking in the Design Community](https://www.youtube.com/watch?v=Dg-wvO4Rd_g&feature=emb_title)&nbsp; 
+Design Recharge Podcast Guest // [Mining Cuteness](https://www.youtube.com/watch?v=UQ48Vr2d2Ds&list=PLf3CLebh1UCb2BV06CA9HoQXjJ_Q36Zjk&index=107)&nbsp;
+Master of One Podacst // [Live from Creative South Episode 28](https://master-of-one-network.simplecast.com/episodes/creative-south-live-episode-28-blake-22902129)&nbsp;
+Creative Waffle Podcast // [Episode 117 w/ Jetpacks and Rollerskates](https://www.youtube.com/watch?v=KUnSIdK1fIM&t=761s)&nbsp;
+Adobe/Behance Live // [Design Off with Voodoo Val](https://www.youtube.com/watch?v=2P2pAy3Ijic&t=2585s)&nbsp;
+Sketch (Bohemian Coding) Blog // [From Sketch to Screen Process](https://www.sketch.com/blog/2019/10/14/from-sketch-to-screen-how-blake-stevenson-created-our-ambassador-art-print/)&nbsp;
+Art of Craft Beer // [Episode 104 w/ Blake Stevenson](https://www.16ozcanvas.com/podcasts/episode-104-blake-stevenson-elora-brewing-co)&nbsp;
+Feasting on Design // [Episode 9 w/ Jetpacks and Rollerskates](https://podcasts.apple.com/us/podcast/9-blake-stevenson-of-jetpacks-and-rollerskates/id1081610301?i=1000365821713&l=es)&nbsp;
 Outlane // [Designer Feature](https://outlane.co/now/featured-designer-jetpacks-rollerskates/)
 
 
