@@ -37,9 +37,10 @@ Master of One Podacst // [Live from Creative South Episode 28](https://master-of
 Creative Waffle Podcast // [Episode 117 w/ Jetpacks and Rollerskates](https://www.youtube.com/watch?v=KUnSIdK1fIM&t=761s)\
 Adobe/Behance Live // [Design Off with Voodoo Val](https://www.youtube.com/watch?v=2P2pAy3Ijic&t=2585s)\
 Sketch (Bohemian Coding) Blog // [From Sketch to Screen Process](https://www.sketch.com/blog/2019/10/14/from-sketch-to-screen-how-blake-stevenson-created-our-ambassador-art-print/)\
+Collective Arts // [Series 12 Curator Panel](https://collectiveartsbrewing.com/stories/series-12-curators/)
 Art of Craft Beer // [Episode 104 w/ Blake Stevenson](https://www.16ozcanvas.com/podcasts/episode-104-blake-stevenson-elora-brewing-co)\
 Feasting on Design // [Episode 9 w/ Jetpacks and Rollerskates](https://podcasts.apple.com/us/podcast/9-blake-stevenson-of-jetpacks-and-rollerskates/id1081610301?i=1000365821713&l=es)\
-Go Media Zine // [Road to Weapons of Mass Creation](https://gomedia.com/zine/insights/jetpacks-and-rollerskates/)
+Go Media Zine // [Road to Weapons of Mass Creation](https://gomedia.com/zine/insights/jetpacks-and-rollerskates/)\
 Outlane // [Designer Feature](https://outlane.co/now/featured-designer-jetpacks-rollerskates/)
 
 
