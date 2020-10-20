@@ -39,6 +39,7 @@ Adobe/Behance Live // [Design Off with Voodoo Val](https://www.youtube.com/watch
 Sketch (Bohemian Coding) Blog // [From Sketch to Screen Process](https://www.sketch.com/blog/2019/10/14/from-sketch-to-screen-how-blake-stevenson-created-our-ambassador-art-print/)\
 Art of Craft Beer // [Episode 104 w/ Blake Stevenson](https://www.16ozcanvas.com/podcasts/episode-104-blake-stevenson-elora-brewing-co)\
 Feasting on Design // [Episode 9 w/ Jetpacks and Rollerskates](https://podcasts.apple.com/us/podcast/9-blake-stevenson-of-jetpacks-and-rollerskates/id1081610301?i=1000365821713&l=es)\
+Go Media Zine // [Road to Weapons of Mass Creation](https://gomedia.com/zine/insights/jetpacks-and-rollerskates/)
 Outlane // [Designer Feature](https://outlane.co/now/featured-designer-jetpacks-rollerskates/)
 
 
