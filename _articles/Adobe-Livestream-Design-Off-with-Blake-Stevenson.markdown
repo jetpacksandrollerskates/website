@@ -12,7 +12,7 @@ youtubeId2: Ml_QiwkAu-E
 
 ---
 
-Having used the infamous Adobe suite of products, on and off throughout my career as a designer. It was an honor when asked to be a guest creator on their daily creative streams. The assignment was a friendly design off with one of the regular hosts [(Voodoo Val)](https://www.voodooval.com/). 
+Having used the infamous [Adobe suite](https://www.adobe.com/ca/creativecloud.html) of products, on and off throughout my career as a designer. It was an honor when asked to be a guest creator on their daily creative streams. The assignment was a friendly design off with one of the regular hosts [(Voodoo Val)](https://www.voodooval.com/). 
 
 ![Final print of Adobe Live Stream by Blake Stevenson](https://drive.google.com/uc?export=view&id=1DJVyqri-lhJY7NDeR96qtWacuhstRjsk)
 
