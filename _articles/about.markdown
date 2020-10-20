@@ -29,8 +29,8 @@ Send me an [email](mailto:blake@jetpacksandrollerskates.com)
 
 ## Media engagements:
 
-Real Thread Creative Blog Post // [Networking in the Design Community](https://www.realthread.com/blog/networking-in-the-design-community)\ 
-Real Thread Audio Interview // [Networking in the Design Community](https://www.youtube.com/watch?v=Dg-wvO4Rd_g&feature=emb_title)\ 
+Real Thread Creative Blog Post // [Networking in the Design Community](https://www.realthread.com/blog/networking-in-the-design-community)\
+Real Thread Audio Interview // [Networking in the Design Community](https://www.youtube.com/watch?v=Dg-wvO4Rd_g&feature=emb_title)\
 Design Recharge Podcast Guest // [Mining Cuteness](https://www.youtube.com/watch?v=UQ48Vr2d2Ds&list=PLf3CLebh1UCb2BV06CA9HoQXjJ_Q36Zjk&index=107)\
 Master of One Podacst // [Live from Creative South Episode 28](https://master-of-one-network.simplecast.com/episodes/creative-south-live-episode-28-blake-22902129)\
 Creative Waffle Podcast // [Episode 117 w/ Jetpacks and Rollerskates](https://www.youtube.com/watch?v=KUnSIdK1fIM&t=761s)\
