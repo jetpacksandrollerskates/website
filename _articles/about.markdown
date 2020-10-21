@@ -31,6 +31,7 @@ Send me an [email](mailto:blake@jetpacksandrollerskates.com)
 
 Real Thread Creative Blog Post // [Networking in the Design Community](https://www.realthread.com/blog/networking-in-the-design-community)\
 Real Thread Audio Interview // [Networking in the Design Community](https://www.youtube.com/watch?v=Dg-wvO4Rd_g&feature=emb_title)\
+Sketch // [From Sketch to Screen Process](https://www.sketch.com/blog/2019/10/14/from-sketch-to-screen-how-blake-stevenson-created-our-ambassador-art-print/)\
 Master of One Podcast // [Episode 56 w/ Jetpacks and Rollerskates](https://www.iheart.com/podcast/1092-mof1-podcast-29004299/episode/episode-562-sandbox-interview-with-50965130/)\
 Design Recharge Podcast Guest // [Mining Cuteness](https://www.youtube.com/watch?v=UQ48Vr2d2Ds&list=PLf3CLebh1UCb2BV06CA9HoQXjJ_Q36Zjk&index=107)\
 Master of One Podacst // [Live from Creative South Episode 28](https://master-of-one-network.simplecast.com/episodes/creative-south-live-episode-28-blake-22902129)\
