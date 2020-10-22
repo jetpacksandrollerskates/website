@@ -10,9 +10,10 @@ thumbnail: https://drive.google.com/uc?export=view&id=1gY08uKRD4gZ-585w5vI7CiD9h
 
 ---
 
-## WALL•E and EVE Limited Edition Print Set.
 
 ![Limited Edition Pixar WALLE prints by Blake Stevenson](https://drive.google.com/uc?export=view&id=18UezBU4s3xAF_3rn2jEItV0-PKZLU6on)
+
+## WALL•E and EVE Limited Edition Print Set.
 
 What can be said about Disney/Pixar that hasn’t been said already. Probably the number one gateway drug for anyone wanting to get into the creative arts. I cannot tell you how exciting it was to be approached by one of Disney’s licensing partners to do a handful of  limited edition silkscreen prints.  
 
