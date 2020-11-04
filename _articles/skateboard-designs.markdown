@@ -10,16 +10,16 @@ thumbnail: https://drive.google.com/uc?export=view&id=1P8C3AjhQS7XDDTY5AkVbt9q5s
 
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin id posuere felis. In orci lectus, consequat consectetur nunc in, maximus volutpat enim. Proin non neque pellentesque nulla auctor lobortis tristique egestas sem. Maecenas eget tortor commodo, dapibus metus non, vehicula massa. Donec eu ligula scelerisque, ornare ante ut, malesuada dui. Nullam sed augue ut orci interdum venenatis tristique sed quam. Donec aliquam leo vel est tempor scelerisque. Sed sed molestie mauris, vitae interdum lacus. Etiam tempus ligula est, eu posuere purus semper mattis. Nam commodo leo maximus, lacinia augue a, fringilla massa.
+Developing graphics for skateboard companies throughout the world has been such a rewarding experience. Getting to dip my toes into different bits of the industry, from deck design, branding and packaging to accessories, hardware and fingerboards. Each project fulfills a lifelong dream to contribute back to the sport that helped introduce me into the world of design.
 
 ![Four Skateboards designed by Blake Stevenson](https://drive.google.com/uc?export=view&id=12IyBQWfh6QmcG59WjLRAlV04P0pgi0m5)
 
-Nullam sed augue ut orci interdum venenatis tristique sed quam. Donec aliquam leo vel est tempor scelerisque. Sed sed molestie mauris, vitae interdum lacus. Etiam tempus ligula est, eu posuere purus semper mattis. Nam commodo leo maximus, lacinia augue a, fringilla massa.
+The skateboard itself is such an interesting canvas to work with. The unique shape, how the board is commonly held, where the trucks are placed and how they might obstruct the design are all such interesting constraints to a build a product within. 
 
 ![Fingerboard designs by Blake Stevenson](https://drive.google.com/uc?export=view&id=1K7Ik60Clpdf1ncxlfuqYQHChiEY8T30E)
 
-Nullam sed augue ut orci interdum venenatis tristique sed quam. Donec aliquam leo vel est tempor scelerisque. Sed sed molestie mauris, vitae interdum lacus. Etiam tempus ligula est, eu posuere purus semper mattis. Nam commodo leo maximus, lacinia augue a, fringilla massa.
+This is a small selection of the work that I have done over the years. Mostly working for small independent companies that are developing brands for the sheer love of the sport and community.
 
-## Street Rat Wheels
+## Street Rat Wheels (more coming soon)
 
 ![Street Rat 53mm skateboard wheel designs by Blake Stevenson](https://drive.google.com/uc?export=view&id=1Om2KgmfWQkc_3yKdsE8liureADycOu_B)
