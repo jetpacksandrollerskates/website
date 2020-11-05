@@ -6,7 +6,7 @@ author: Blake Stevenson
 categories: Inspiration
 tags: [jekyll, update]
 excerpt: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin id posuere felis. In orci lectus, consequat consectetur nunc in, maximus volutpat enim.
-thumbnail:
+thumbnail: https://drive.google.com/uc?export=view&id=1NOqRGlD4CFE-njMGeZ1vljsIcUsCMle2
 ---
 
 ![Put a bird on it](https://cdn.dribbble.com/users/44324/screenshots/11065012/media/c462a5a2e3f854fb9cddd406c9561c2b.jpg)
