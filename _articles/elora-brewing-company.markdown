@@ -28,8 +28,7 @@ This ongoing series of cans are the results of the system that was developed. It
 
 With most breweries we started with a few flag ship product offerings. These are the beers that people continue to return for and will be on constant rotation. Currently you can find them available within over 90 LCBO and 35 Lowblaws locations. The designs traditionally stay the same but will get some minor adjustments as needed.
 
-## A Lifestyle Brand
+## Apparel Design
 
 ![Elora Brewing Company Clothing Design by Blake Stevenson](https://drive.google.com/uc?export=view&id=1PzlOCaeU-dvVLldGO2XRxD6jPSkzeUXM)
 
-Nullam sed augue ut orci interdum venenatis tristique sed quam. Donec aliquam leo vel est tempor scelerisque. Sed sed molestie mauris, vitae interdum lacus. Etiam tempus ligula est, eu posuere purus semper mattis. Nam commodo leo maximus, lacinia augue a, fringilla massa.
