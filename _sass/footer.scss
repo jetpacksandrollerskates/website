@@ -57,6 +57,8 @@
 	list-style-type: none;
 	li {
 		display: inline-block;
+		width: 24px;
+		height: 24px;
 		margin: 0;
 		transform: scale(1);
 		transition: .35s;
@@ -64,10 +66,27 @@
 			transform: scale(1.1);
 		}
 	}
-	.svg-inline--fa {
-		width: 12px;
-		height: 12px;
-		margin-left: .5rem;
-		color: $color-light;
+	&__icon {
+		position: absolute;
+		top: 50%;
+		left: 50%;
+		width: 20px;
+		height: 20px;
+		background-position: center;
+		background-repeat: no-repeat;
+		background-size: contain;
+		transform: translate(-50%, -50%);
+		&--twitter {
+			background-image: url('../assets/images/icon-twitter.svg');
+		}
+		&--instagram {
+			background-image: url('../assets/images/icon-instagram.svg');
+		}
+		&--dribbble {
+			background-image: url('../assets/images/icon-dribbble.svg');
+		}
+		&--linkedin {
+			background-image: url('../assets/images/icon-linkedin.svg');
+		}
 	}
 }
