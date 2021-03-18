@@ -45,6 +45,8 @@ Feasting on Design // [Episode 9 w/ Jetpacks and Rollerskates](https://podcasts.
 Fluxible // [Being a UXer at Shopify](https://www.fluxible.ca/2017/09/whats-like-shopify-plus-uxer-ask/)\
 Go Media Zine // [Road to Weapons of Mass Creation](https://gomedia.com/zine/insights/jetpacks-and-rollerskates/)\
 Outlane // [Designer Feature](https://outlane.co/now/featured-designer-jetpacks-rollerskates/)\
+Adventures in Design // Episode 175\
 Design Edge Magazine // Product Feature
+
 
 
