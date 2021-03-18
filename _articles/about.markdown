@@ -44,7 +44,7 @@ Art of Craft Beer // [Episode 104 w/ Blake Stevenson](https://www.16ozcanvas.com
 Feasting on Design // [Episode 9 w/ Jetpacks and Rollerskates](https://podcasts.apple.com/us/podcast/9-blake-stevenson-of-jetpacks-and-rollerskates/id1081610301?i=1000365821713&l=es)\
 Fluxible // [Being a UXer at Shopify](https://www.fluxible.ca/2017/09/whats-like-shopify-plus-uxer-ask/)\
 Go Media Zine // [Road to Weapons of Mass Creation](https://gomedia.com/zine/insights/jetpacks-and-rollerskates/)\
-Outlane // [Designer Feature](https://outlane.co/now/featured-designer-jetpacks-rollerskates/)
-Design Edge Magazine // Product Feature\
+Outlane // [Designer Feature](https://outlane.co/now/featured-designer-jetpacks-rollerskates/)\
+Design Edge Magazine // Product Feature
 
 
