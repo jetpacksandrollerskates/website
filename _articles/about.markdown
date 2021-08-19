@@ -29,7 +29,7 @@ Send me an [email](mailto:blake@jetpacksandrollerskates.com)
 
 ## Media engagements:
 
-Featured on Invisions Creative // [Muzli 319](https://medium.muz.li/weekly-design-inspiration-319-9a04c72f84e1)\
+Featured on Invisions Creative Blog // [Muzli 319](https://medium.muz.li/weekly-design-inspiration-319-9a04c72f84e1)\
 Real Thread Creative Blog Post // [Networking in the Design Community](https://www.realthread.com/blog/networking-in-the-design-community)\
 Real Thread Audio Interview // [Networking in the Design Community](https://www.youtube.com/watch?v=Dg-wvO4Rd_g&feature=emb_title)\
 Arkade Snowboard Magazine // [Artist profile / feature story](https://issuu.com/arkademagazine/docs/november_2018?fbclid=IwAR0CNrKlccXlntPTfwCbJ2HRzMJ9gI3ZcCMhDH-P6dLeLm30aFm5CpivKPQ)\
