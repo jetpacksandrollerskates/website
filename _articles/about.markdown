@@ -29,6 +29,7 @@ Send me an [email](mailto:blake@jetpacksandrollerskates.com)
 
 ## Media engagements:
 
+Print Design Podcast // [Episode 46](https://www.printdesignacademy.com/podcasts/print-design-podcast/episodes/2147627174)\
 Featured on Invisions Creative Blog // [Muzli 319](https://medium.muz.li/weekly-design-inspiration-319-9a04c72f84e1)\
 Real Thread Creative Blog Post // [Networking in the Design Community](https://www.realthread.com/blog/networking-in-the-design-community)\
 Real Thread Audio Interview // [Networking in the Design Community](https://www.youtube.com/watch?v=Dg-wvO4Rd_g&feature=emb_title)\
