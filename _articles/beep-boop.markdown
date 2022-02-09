@@ -10,7 +10,7 @@ thumbnail: https://drive.google.com/uc?export=view&id=1Sh2Rlz47EJ6iYcauNtaRjQmI-
 
 ---
 
-![Beeps Boops and Cats NFT project by Blake Stevenson](https://drive.google.com/drive/folders/1uJMvHduCSToOngMgYDyv_Ezccf5KA8tG)
+![Beeps Boops and Cats NFT project by Blake Stevenson](https://drive.google.com/uc?export=view&id=1uJMvHduCSToOngMgYDyv_Ezccf5KA8tG)
 
 ## Beeps Boops and Cats is coming soon
 
