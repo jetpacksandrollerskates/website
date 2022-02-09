@@ -10,7 +10,9 @@ thumbnail: https://drive.google.com/uc?export=view&id=1Sh2Rlz47EJ6iYcauNtaRjQmI-
 
 ---
 
-## Coming Soon
+![Beeps Boops and Cats NFT project by Blake Stevenson](https://drive.google.com/drive/folders/1uJMvHduCSToOngMgYDyv_Ezccf5KA8tG)
+
+## Beeps Boops and Cats is coming soon
 
 Cats living in a cassette futuristic world, aimlessly floating about. The hums of computer fans, twinkle of led lights and purr of felines.
 
