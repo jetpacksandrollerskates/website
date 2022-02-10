@@ -16,7 +16,7 @@ thumbnail: https://drive.google.com/uc?export=view&id=1TIL0Pp83PEKoKd1tAY67avXkP
 
 Cats living in a cassette futuristic world, aimlessly floating about. The hums of computer fans, twinkle of led lights and purr of felines.
 
-![Beeps Boops and Cats v1.06 varGB89 by Blake Stevenson](https://drive.google.com/uc?export=view&id=1_tExfW6dgGY8ISlwJ5JEcsD6wVSgrpNF)
+![Beeps Boops and Cats v1.06 varGB89 by Blake Stevenson](https://drive.google.com/uc?export=view&id=tExfW6dgGY8ISlwJ5JEcsD6wVSgrpNF)
 
 
 ## Objekt Profile
