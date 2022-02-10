@@ -19,5 +19,5 @@ Cats living in a cassette futuristic world, aimlessly floating about. The hums o
 ![Beeps Boops and Cats v1.06 varGB89 by Blake Stevenson](https://drive.google.com/uc?export=view&id=1_tExfW6dgGY8ISlwJ5JEcsD6wVSgrpNF)
 
 
-## Objekt Profile
+## Objkt Profile
 [jetpack&rollerskates on objkt](https://objkt.com/profile/jetpacksandrollerskates/created)
