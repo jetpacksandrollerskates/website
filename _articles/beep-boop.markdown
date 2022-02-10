@@ -12,12 +12,12 @@ thumbnail: https://drive.google.com/uc?export=view&id=1TIL0Pp83PEKoKd1tAY67avXkP
 
 ![Beeps Boops and Cats NFT project by Blake Stevenson](https://drive.google.com/uc?export=view&id=1TIL0Pp83PEKoKd1tAY67avXkPodLVoc7)
 
-## Beeps Boops and Cats is coming soon
+[See the entire project on the jetpack&rollerskates on objkt](https://objkt.com/profile/jetpacksandrollerskates/created)
+
+## In a world...
 
 Cats living in a cassette futuristic world, aimlessly floating about. The hums of computer fans, twinkle of led lights and purr of felines.
 
 ![Beeps Boops and Cats v1.06 varGB89 by Blake Stevenson](https://drive.google.com/uc?export=view&id=1_tExfW6dgGY8ISlwJ5JEcsD6wVSgrpNF)
 
 
-## Objkt Profile
-[jetpack&rollerskates on objkt](https://objkt.com/profile/jetpacksandrollerskates/created)
